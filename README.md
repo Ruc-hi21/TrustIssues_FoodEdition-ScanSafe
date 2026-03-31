@@ -56,14 +56,14 @@ Ingredient analysis engine capable of:
 - MongoDB
 - Redis
 
-### Machine Learning / NLP
+### NLP
 - TF-IDF vectorization
 - text normalization
 - tokenization
 - stemming
 - synonym mapping
 
-### Infrastructure (optional)
+### Infrastructure
 - Docker
 - CI pipeline ready structure
 
