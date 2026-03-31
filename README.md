@@ -1,4 +1,4 @@
-# Trust Issues — Food Edition
+# Trust Issues -Food Edition
 
 Understand what is actually inside packaged food.
 
